@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section{
+	height: fit-content;
+	background-color: #d6dddd;
+}
+.container .main{
+	padding: 20px;
+}
+.text-center.heading{
+	background: #000;
+    padding: 10px;
+	color: #fff;
+}
+#reg-form-id{
+	padding: 0 13%;
+}
+.valid-feedback, .invalid-feedback{
+	display: none;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
